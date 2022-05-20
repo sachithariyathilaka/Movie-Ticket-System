@@ -1,2 +1,6 @@
 # Movie Ticket System
-Movie Ticket Booking System using angular JS &amp; Spring Boot
+Movie Ticket Booking System
+
+#Technologies
+
+Angular JS, Java, Spring Boot, MYSQL
