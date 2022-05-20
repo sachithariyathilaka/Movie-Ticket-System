@@ -3,4 +3,4 @@ Movie Ticket Booking System
 
 # Technologies
 
-Angular JS, Java, Spring Boot, MYSQL
+HTML, CSS, Angular JS, Java, Spring Boot, MYSQL
